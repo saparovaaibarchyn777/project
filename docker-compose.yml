@@ -14,7 +14,7 @@ services:
 
 
   web:
-    container_name: django_web
+    container_name: django_web5
     restart: unless-stopped
     build:
       context: .
